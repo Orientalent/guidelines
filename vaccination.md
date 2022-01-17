@@ -23,6 +23,6 @@ The opening hours of the Min Doktor Vård & Vaccin in Nordstan are:
 - Saturday:  11:00 - 16:00
 - Sunday:  closed
 
-N.B. 
+Note: 
 - The opening hours may differ during holidays.
 - Min Doktor Vård & Vaccin's opening hours are different from those of Apotek Hjärtat.
