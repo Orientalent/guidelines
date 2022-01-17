@@ -8,7 +8,7 @@ Your passport. It is also highly recommended that you take the vaccine **AFTER**
 If you have been vaccinated in your home country, prepare the English name of the vaccine you have taken, and the time of vaccination. These information can help the doctor to determine whether you need to get vaccinated again and which vaccine you should take.
 
 ## Where to get vaccination
-**[Min Doktor Vård & Vaccin](https://www.mindoktor.se/)**, usually located in an **Apotek Hjärtat** (but not every Apotek Hjärtat has one).
+**[Min Doktor Vård & Vaccin](https://www.mindoktor.se/)** (My Doctor Care & Vaccine), usually located in an **Apotek Hjärtat** (The Heart Pharmacy, their logo contains ICA since it is purchased by ICA Group), but not every Apotek Hjärtat has one.
 There is a [Min Doktor Vård & Vaccin](https://www.mindoktor.se/kliniken/nordstan/) in the [Apotek Hjärtat in Nordstan](https://www.apotekhjartat.se/hitta-apotek-hjartat/vastra-gotaland/apotek_hjartat_nordstan_goteborg/), located near the entrance between Scandic Europa and Hotel Opera. The address is Götgatan 12, 411 05 Göteborg. Or you can search *Min Doktor Vård & Vaccin* for more convenient location.
 
 ## Notes
