@@ -1,5 +1,7 @@
 # Orientalent Guidelines
 
+<img src='images/logo.png' width='200'>
+
 
 Here is the onboarding information and useful materials to help new family members get into new life smoothly.
 
