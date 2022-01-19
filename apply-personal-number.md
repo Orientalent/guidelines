@@ -7,22 +7,22 @@
 
 ## Step 3:
 ##### The officer will check your files and you can fill the website on the computer they will find for you. Fill it step by step.
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/1.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/2.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/3.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/4.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/5.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/6.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/7.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/8.png)
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/9.png)
+![Aaron Swartz](images/pn/1.png)
+![Aaron Swartz](images/pn/2.png)
+![Aaron Swartz](images/pn/3.png)
+![Aaron Swartz](images/pn/4.png)
+![Aaron Swartz](images/pn/5.png)
+![Aaron Swartz](images/pn/6.png)
+![Aaron Swartz](images/pn/7.png)
+![Aaron Swartz](images/pn/8.png)
+![Aaron Swartz](images/pn/9.png)
 
-##### After 1 to 18 months, check the mailbox, and a letter will be sent to you with a personal number and a website. Send the personal number to Ola and cc to CJ by E-mail. 
+##### Usually the waiting time is 1 to 3 months, check your mailbox regularly, Tax Agency will send you a letter by post with your personal number. When you recieve the letter, send your personal number to admin@orientalent.se to update your infomation in the company.
 
 ##### Log in to the website to make an appointment to take pictures on site. 
 
 Link: https://ssc.nemoq.se/booking/booking/index/ssc
-![Aaron Swartz](https://raw.githubusercontent.com/richardwd/guidelines/main/images/pn/10.png)
+![Aaron Swartz](images/pn/10.png)
 
 Notice: You can book a photoshoot time before you receive the letter. If you haven't received it 2 days before the appointment, you can use the dialog box on the right to change the appointment time. This will save some time.
 
