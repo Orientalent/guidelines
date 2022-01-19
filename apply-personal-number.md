@@ -28,4 +28,4 @@ Notice: You can book a photoshoot time before you receive the letter. If you hav
 
 ##### Before taking the photo, you need to pay the card production fee according to the payment method specified in the letter. Approximate 400 kroner.
 
-##### Then go to "Skattekontoret" again to take a picture. After about 2 months, you can get an ID card. Then apply for a bank card with your ID card. Send the bank card number to Ola and cc to CJ by E-mail.
+##### Then go to "Skattekontoret" again to take a picture. After about 2 months, you can get an ID card. Then apply for a bank card with your ID card. Send your bank account number to admin@orientalent.se by E-mail.
