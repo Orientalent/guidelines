@@ -33,6 +33,7 @@ Here is the onboarding information and useful materials to help new family membe
 
 * [Vaccination](vaccination.md)
 * [How to activate SIM card](activate-sim-card.md)
+* [Apply Personal Number](apply-personal-number.md)
 
  
 
