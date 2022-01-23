@@ -6,7 +6,7 @@ ____
 
 - Hamburger and spaghetti are, of course, the most common food here which may leave you with fresh impression on the first day, but just for a while : (
 
-<img src='images/Effieimage/10.png'>
+<img src='images/Effieimage/4.jpg'>
 
 
 
