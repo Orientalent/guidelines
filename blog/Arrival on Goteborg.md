@@ -1,16 +1,23 @@
 # Arrival on Goteborg 
 
+**1. Flight to Goteborg**
+____
+
 ___Full of passion and hope, we landed on Goteborg, Sweden. It almost took us 15 hours arriving here. There are many flights you can choose to take. The direct flight is the one from Beijing to Stockholm, but then you need to transfer from there to Goteborg by train. For us, we brought 7 luggages so that we took the flight from Shanghai to Goteborg with direct transfer of luggages, stop in Helsinki for 2 hours. The price of the flight is around 7000 RMB/person.___
 
 <img src='../images/Effieimage/16.jpg' width = 50% height = 50%/>
 
 <img src='../images/Effieimage/15.jpg' width = 50% height = 50%/>
 
+**2. Weather in Goteborg**
+
+____
+
 ___We arrived Goteborg at noon after which the driver picked us up and sent us directly to the apartment. Through the way of driving, the impression for us is that the place is vast and splendid with forests, grasslands and waters. The temperature here is around -1 degree with very little temperature difference during the day. It is similar to Dalian, a costal city in Northern part of China. Since we came from Northern part of China, we can adopt to the environment easily. The wind here is sometimes strong, with some rain or even snow. But, don't worry. It is not very cold.___
 
 <img src='../images/Effieimage/19.jpg' width = 50% height = 50%/>
 
-**1. Western food vs. Chinese stomach**
+**3. Western food vs. Chinese stomach**
 
 ____
 
@@ -35,7 +42,7 @@ ___Mostly, the food price doubles the price in China, however, with higher quali
 
 ***In fact, different prices may be given depending on the types of markets, including Asian market, Indian market, local market and so on. There are some Chinese markets as well, like Saigon and Gain Trading.*** 
 
-**2. Fresh Air and Relaxing Environment**
+**4. Fresh Air and Relaxing Environment**
 
 ____
 
@@ -54,7 +61,7 @@ ____
 <img src='../images/Effieimage/8.jpg' width = 50% height = 50%/>
 
 
-**3. Convenient Transportation System**
+**5. Convenient Transportation System**
 
 ____
 
