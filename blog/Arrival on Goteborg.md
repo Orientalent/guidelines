@@ -72,5 +72,7 @@ ___There are two big shopping centers here, one is called Nordstan which is oppo
 
 <img src='../images/Effieimage/21.jpg' width = 50% height = 50%/>
 
+____
+
 ___Generally, the first impressions of this city are well-educated people, easy transportation, precious sunlight and long night in winter. There are still a lot waiting for you to explore in Goteborg. See you on next blog. Vi ses.___
 
