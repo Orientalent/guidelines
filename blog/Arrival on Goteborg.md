@@ -66,7 +66,7 @@ ___Buy a year card then you can reach any district in the city with easy transfe
 
 <img src='../images/Effieimage/6.jpg' width = 50% height = 50%/>
 
-___There are two big shopping centers here, one is called Nordstan which is opposite to the central station, one is called Hj. Brantingsplatsen, the main bus transfer cernter of Goteborg, with diverse stores in reasonable prices. The two centers are close to each other, only one bus stop distance.
+___There are two big shopping centers here, one is called Nordstan which is opposite to the central station, one is called Hj. Brantingsplatsen, the main bus transfer cernter of Goteborg, with diverse stores in reasonable prices. The two centers are close to each other, only one bus stop distance.___
 
 <img src='../images/Effieimage/20.jpg' width = 50% height = 50%/>
 
