@@ -2,9 +2,9 @@
 
 ___Full of passion and hope, we landed on Goteborg, Sweden. It almost took us 15 hours arriving here. There are many flights you can choose to take. The direct flight is the one from Beijing to Stockholm, but then you need to transfer from there to Goteborg by train. For us, we brought 7 luggages so that we took the flight from Shanghai to Goteborg with direct transfer of luggages, stop in Helsinki for 2 hours. The price of the flight is around 7000 RMB.___
 
-<img src='../images/Effieimage/15.jpg' width = 50% height = 50%/>
-
 <img src='../images/Effieimage/16.jpg' width = 50% height = 50%/>
+
+<img src='../images/Effieimage/15.jpg' width = 50% height = 50%/>
 
 <img src='../images/Effieimage/17.jpg' width = 50% height = 50%/>
 
@@ -66,8 +66,11 @@ ___Buy a year card then you can reach any district in the city with easy transfe
 
 <img src='../images/Effieimage/6.jpg' width = 50% height = 50%/>
 
+___There are two big shopping centers here, one is called Nordstan which is opposite to the central station, one is called Hj. Brantingsplatsen, the main bus transfer cernter of Goteborg, with diverse stores in reasonable prices. The two centers are close to each other, only one bus stop distance.
+
+<img src='../images/Effieimage/20.jpg' width = 50% height = 50%/>
+
+<img src='../images/Effieimage/21.jpg' width = 50% height = 50%/>
 
 ___Generally, the first impressions of this city are well-educated people, easy transportation, precious sunlight and long night in winter. There are still a lot waiting for you to explore in Goteborg. See you on next blog. Vi ses.___
-
-
 
