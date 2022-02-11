@@ -24,7 +24,11 @@ Here is the onboarding information and useful materials to help new family membe
 * Send your social secure number to us (admin@orientalent.se)
 * Apply an ID card from the tax office after you got social secure number
 * Open a bank account at SEB, Nordea or Swedbank
-* Send your bank account to us (admin@orientalent.se)
+* Fill in the [form](https://forms.office.com/r/BRAeNBQwgL), then you are done with the onboarding process
+
+
+## Other things you might want to do
+
 * Register at [forsakringskassan](https://www.forsakringskassan.se/privatpers) ASAP, more info [here](https://www.forsakringskassan.se/english/moving-to-working-studying-or-newly-arrived-in-sweden/move-to-sweden)
 * Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
  
