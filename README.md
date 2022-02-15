@@ -33,6 +33,12 @@ Here is the onboarding information and useful materials to help new family membe
 * Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
  
 
+## Useful Forms
+
+* [Vacation Plan](https://forms.office.com/r/VWduUxtgPJ)
+* [Sickness Leave](https://forms.office.com/r/XhhxMJGYLV)
+* [Parental Leave](https://forms.office.com/r/pEPKvC9wS7)
+
 ## Useful Info
 
 * [Vaccination](vaccination.md)
