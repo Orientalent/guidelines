@@ -20,9 +20,9 @@ Here is the onboarding information and useful materials to help new family membe
 ## Things to do after arrival 
 
 * Traffic ticket can be purchased at Pressbyrån
-* Register at [Swedish Tax office](https://www.skatteverket.se) to get your social secure number, need to visit the office, please look up Google Maps
-* Send your social secure number to us (admin@orientalent.se)
-* Apply an ID card from the tax office after you got social secure number
+* Register at [Swedish Tax office](https://www.skatteverket.se) to get your personal number (social secure number), need to visit the office, please look up Google Maps
+* Send your personal number to us (admin@orientalent.se)
+* Apply an ID card from the tax office after you got your personal number
 * Open a bank account at SEB, Nordea or Swedbank
 * Fill in the [form](https://forms.office.com/r/BRAeNBQwgL), then you are done with the onboarding process
 
