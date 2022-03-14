@@ -19,19 +19,35 @@ Here is the onboarding information and useful materials to help new family membe
 
 ## Things to do after arrival 
 
-* Traffic ticket can be purchased at Pressbyrån
-* Register at [Swedish Tax office](https://www.skatteverket.se) to get your personal number (social secure number), need to visit the office, please look up Google Maps
+* Apply personal number (social secure number)
+  at the same time:
+  - activate company email
+  - activate sim card
+  - Read through Personal Manual
+  - Check Onboarding folder (Onedrive)
+  - Buy bus ticket at Pressbyrån
+  - Get vaccination (sometimes need personal number)
+  - Apply Library card with passport (Optinal)
+  - Looking for your own apartment
+  - Apply school (if with kids), check Wechat 
 * Send your personal number to us (admin@orientalent.se)
-* Apply an ID card from the tax office after you got your personal number
-* Open a bank account at SEB, Nordea or Swedbank
-* Fill in the [form](https://forms.office.com/r/BRAeNBQwgL), then you are done with the onboarding process
+* Make appointment for ID card online (https://ssc.nemoq.se/Booking/Booking/Index/SSC) and Pay 400kr
+* Visit Tax Agency for ID card (fingerprint & photo)
+* Colletct ID card (must on site)
+* Apply bank card (Any bank)
+* Open Swish on cellphone
+* Register for SFI (Learning Swedish) if needed
+* Register at forsakringskassan (Privatperson) with bank ID
+* CV system (Resume Builder)
+* Fill in on-boarding form (https://forms.office.com/r/BRAeNBQwgL)
 
 
 ## Other things you might want to do
+* To rent an apartment
+  - Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
+* Apply Library card with passport (Optinal)
+  - Use your passport to apply Library card in any public library (bibliotek), after half a year, you need to reapply by using your personal number. The advantage to have the library card is that you can print several pages for free.
 
-* Register at [forsakringskassan](https://www.forsakringskassan.se/privatpers) ASAP, more info [here](https://www.forsakringskassan.se/english/moving-to-working-studying-or-newly-arrived-in-sweden/move-to-sweden)
-* Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
- 
 
 ## Useful Forms
 
