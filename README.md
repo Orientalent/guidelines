@@ -43,12 +43,6 @@ Here is the onboarding information and useful materials to help new family membe
 * Fill in our [CV system](https://cv.orientalent.se) if you haven't done that yet
 
 
-## Useful Forms
-
-* [Vacation Plan](https://forms.office.com/r/VWduUxtgPJ)
-* [Sickness Leave](https://forms.office.com/r/XhhxMJGYLV)
-* [Parental Leave](https://forms.office.com/r/pEPKvC9wS7)
-
 ## Useful Info
 
 * [Vaccination](vaccination.md)
