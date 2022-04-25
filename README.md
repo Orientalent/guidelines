@@ -99,13 +99,6 @@ Here is the onboarding information and useful materials to help new family membe
 * Fill in our [CV system](https://cv.orientalent.se) if you haven't done that yet
 * Fill in our [Basic Information of Employee] (https://forms.office.com/r/BRAeNBQwgL)
 
-## Useful Forms
-
-* [Vacation Plan](https://forms.office.com/r/VWduUxtgPJ)
-* [Sickness Leave](https://forms.office.com/r/XhhxMJGYLV)
-* [Parental Leave](https://forms.office.com/r/pEPKvC9wS7)
-* [Reimbursement](https://orientalentab-my.sharepoint.com/personal/yao_zhou_orientalent_se/_layouts/15/onedrive.aspx?listurl=https://orientalentab.sharepoint.com/sites/Home/Shared%20Documents&viewid=5959b87d-92d3-4a98-b1ea-a06953505d8f&id=/sites/Home/Shared%20Documents/Onboarding/Reimbursement.pdf&parent=/sites/Home/Shared%20Documents/Onboarding)
-
 
 ## Useful Info
 
