@@ -30,8 +30,10 @@ Here is the onboarding information and useful materials to help new family membe
 
 * Keep the digital decision letter from the Swedish Immigration Agency.
 * Please check the validity period of your visa carefully to ensure that the date of your flight ticket is within the validity period of your visa.
-* The documents that you need to bring with you are passport, visa & work permit card, marriage certificate with notarized translation, child's birth certificate with notarized translation.
-* Some cash in Swedish Krona (20000 SEK should be more than enough, and double it if you have family together with you)
+* Passport & work permit card
+* Marriage certificate & legalized translation if not single
+* Kid's birth certificate & legalized translation if have kids
+* Some cash in Swedish Krona (10000 SEK should be more than enough, and double it if you have family together with you)
 * A visa/master card can be used globally. Preferably IC-based, since there a few places that magnetic tape-based cards cannot be used.
 * Enable the global communication function(international roaming)from your mobile subscription in case you need it before getting company smart phone.
 * Luggage preparation: for people who are afraid of the cold weather can bring a thick down jacket.
