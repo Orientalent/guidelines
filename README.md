@@ -36,10 +36,13 @@ Here is the onboarding information and useful materials to help new family membe
 
 ## Things to do after arrival 
 
-* Apply personal number (social secure number). It usually takes one month to get it.
-  While waiting :
-  - Activate company email
-  - Activate sim card
+* Apply personal number (social secure number) at [Swedish Tax Agency](https://www.skatteverket.se/).
+It usually takes one month to get it.
+  While waiting, you can:
+  - Activate company email (You will get it the 1st day visit the office)
+  - Activate your sim card (You will get it the 1st day visit the office)
+  - Setup your smart phone (You will get it the 1st day visit the office)
+  - Read information on our [Intranet](https://orientalentab.sharepoint.com/sites/Home)
   - Read the documents in Onboarding folder on Onedrive (**Personal Manual** is the most important one)
 * Send your personal number to us (admin@orientalent.se)
 * Make appointment for ID card online from this [site](https://ssc.nemoq.se/Booking/Booking/Index/SSC) and Pay 400kr
