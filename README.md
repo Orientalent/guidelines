@@ -24,7 +24,7 @@ Here is the onboarding information and useful materials to help new family membe
 
 ## Preparation before departure 
 
-* Keep the decision letter from the Swedish Immigration Agency.
+* Keep the decision letter from the Swedish Migration Board.
 * Make sure your flight departure date is within the valid period of your visa.
 * Passport & work permit card
 * Marriage certificate & legalized translation if not single
