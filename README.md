@@ -50,13 +50,13 @@ It usually takes one month to get it.
 * Colletct ID card (must on site in person)
 * Apply bank card (e.g. Nordea, SEB, Swedbank, etc.)
 * Install BankID and Swish on your phone
-* Register at forsakringskassan (Privatperson) with BankID
+* To get access to social insurance system, register at [forsakringskassan](https://forsakringskassan.se/english) (Privatperson) with BankID
 * Fill in the [form](https://forms.office.com/r/BRAeNBQwgL) after all the info is ready
 
 
 ## Other things you might want to do
 
-* Register for SFI (Learning Swedish) if needed
+* Register for [SFI](https://en.wikipedia.org/wiki/Swedish_for_immigrants) (Swedish For Immigrants) if needed
 * Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
 * Optionally, apply library card with personal No. or passport at any public libraries (bibliotek)
 * Buy bus ticket via phone app or at Pressbyrån if needed
@@ -69,6 +69,10 @@ It usually takes one month to get it.
 * [Vaccination](vaccination.md)
 * [How to activate SIM card](activate-sim-card.md)
 * [Apply Personal Number](apply-personal-number.md)
+* [General Info about working in Sweden](https://arbetsformedlingen.se/other-languages/english-engelska/do-you-want-to-work-in-sweden)
+* [Governmental Pension Plan](https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/faq)
+* [Tax Table](https://www.skatteverket.se/download/18.5b35a6251761e6914203a50/tabell-33-2021.pdf)
+* [Cost of Living](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden)
 
  
 ### Last but not least 
