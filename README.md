@@ -57,6 +57,7 @@ It usually takes one month to get it.
 ## Other things you might want to do
 
 * Register for [SFI](https://en.wikipedia.org/wiki/Swedish_for_immigrants) (Swedish For Immigrants) if needed
+* Register at your nearest närhälsan (1177.se)
 * Register at [Boplats](https://nya.boplats.se/) and [HomeQ](https://www.homeq.se/) (Your apartment will be supported by the company. These are the queuing systems to apply apartment by yourself in the future, better to register ASAP.)
 * Optionally, apply library card with personal No. or passport at any public libraries (bibliotek)
 * Buy bus ticket via phone app or at Pressbyrån if needed
