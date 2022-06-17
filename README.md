@@ -67,13 +67,14 @@ It usually takes one month to get it.
 
 ## Useful Info
 
-* [Vaccination](vaccination.md)
-* [How to activate SIM card](activate-sim-card.md)
 * [Apply Personal Number](apply-personal-number.md)
+* [How to activate SIM card](activate-sim-card.md)
 * [General Info about working in Sweden](https://arbetsformedlingen.se/other-languages/english-engelska/do-you-want-to-work-in-sweden)
 * [Governmental Pension Plan](https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/faq)
+* [Understand vacations](vacation.md)
 * [Tax Table](https://www.skatteverket.se/download/18.5b35a6251761e6914203a50/tabell-33-2021.pdf)
 * [Cost of Living](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden)
+* [Vaccination](vaccination.md)
 
  
 ### Last but not least 
