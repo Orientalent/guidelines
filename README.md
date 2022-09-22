@@ -19,6 +19,7 @@ Here is the onboarding information and useful materials to help new family membe
 * Application materials are only accepted in English. Any other languages should be translated by a professional translation agency and notarized by a notary office.
 * Usually the processing time of the work permit is about 10 working days.
 * After the residence permit is submitted, you can go to the Swedish Embassy or Consulate in your country to leave fingerprints. Remember to bring your passport and case number (or control number) with you.
+* You can check if your decision has been made with the control number on [Check your appli­ca­tion](https://www.migrationsverket.se/English/Contact-us/Check-your-application-without-logging-in.html). Once your decision has been made, you could call the embassy or consulate general to find the result.
 * Once the work permit card is ready, it will be sent from the Migration Board in Sweden to the embassy or consulate in your country within two weeks. You can pick it up in person or authorize someone to fetch it on your behalf.
 
 
@@ -75,6 +76,7 @@ It usually takes one month to get it.
 * [Tax Table](https://www.skatteverket.se/download/18.5b35a6251761e6914203a50/tabell-33-2021.pdf)
 * [Cost of Living](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden)
 * [Vaccination](vaccination.md)
+* [Driving License](driving-license.md)
 
  
 ### Last but not least 
