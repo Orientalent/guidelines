@@ -26,13 +26,12 @@ You can find average price of a driving license and some tips at [https://korkor
 
 Risks 1 and 2 will pass as long as you go to participate. After that, you will mainly learn theory and driving skills.
 
-When it comes to the theory test, arrive early, you need to take a photo and sign signature on a machine (<font color=red>This is the photo and signature on your driver's license</font>). The photo fee is 80kr, which can be paid on the website where the exam is scheduled.
+When it comes to the theory test, arrive early, you need to take a photo and sign signature on a machine (**<u>This is the photo and signature on your driver's license</u>**). The photo fee is 80kr, which can be paid on the website where the exam is scheduled.
 
 When you pass both tests, you can use your ID card to legally drive a vehicle after passing the test and before you get your driver's license.
 You will receive two letters in about 1-2 weeks, one for payment and one for your driver's license. 
 
-<font color=red>Cost: 280 (1), Payment Account: 50516913 (3), OCR: ********************(2).</font>
-
+**<u>Cost: 280 (1), Payment Account: 50516913 (3), OCR:********************(2).</u>**
 
 <img src='images/dl/5.png'>
 <img src='images/dl/6.png'>
