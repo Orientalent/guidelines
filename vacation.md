@@ -14,7 +14,7 @@ The Swedish vacation system is a bit complicated.
 When taking Earned/Remaining/Saved vacation days, the payment will be higher than normal working days.
 When taking borrowed Advance vacation days, the payment will be the same as normal working days.
 
-The Advance days are considered as a one-time loan, which will be canceled after 4 years in service. If you terminate from the company earlier, the "loan" will be paid back according to the accounting calcuation.
+The Advance days are considered as a one-time loan, which will be canceled after 5 years in service. If you terminate from the company earlier, the "loan" will be paid back according to the accounting calcuation.
 
 You will get paid if you have unused Earned/Remaining/Saved vacation days left when you terminate from the company.
 
