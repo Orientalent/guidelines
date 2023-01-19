@@ -30,9 +30,10 @@ Here is the onboarding information and useful materials to help new family membe
 * Passport & work permit card
 * Marriage certificate & legalized translation if not single
 * Kid's birth certificate & legalized translation if have kids
-* Some cash in Swedish Krona (10000 SEK should be enough, and double it if you have family together with you)
 * A visa/master card can be used globally. Preferably IC-based, since there a few places that magnetic tape-based cards cannot be used.
+* Some cash in Swedish Krona in case your bank card stops working somehow. (E.g. 10000 SEK should be enough, and double it if you have family together with you)
 * Enable the global communication function (international roaming) from your mobile subscription in case you need it before getting company smart phone.
+* Travel insurance would be recommended in case you get sick and haven't got Swedish personal number.
 
 
 ## Things to do after arrival 
