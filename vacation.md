@@ -1,22 +1,28 @@
 # Vacation
 
-The Swedish vacation system is a bit complicated.
+The Swedish vacation system is a bit complicated. The vacation days need to be earned and the period of earning are every year April 1st to March 31st. Every employee has the right to get 25 days per year, but to get the 25 days as valid paid days, one has to work all the month during the earning period. After working 1 year, the days has been earned as VALID days will become "Paid" days.
 
 ## Definitions
 
 * Period: The vacations counting period is one entire year from April 1st to March 31st next year.
-* Earned days: You will get/earn 25 days per period, roughly 25/12 days per month. The days earned from ongoing period can be taken from next period rather than ongoing period.
+* Earned days: If you work one year, you will get/earn 25 days, i.e. roughly 25/12 days per month. The days earned from ongoing period can be taken from next period rather than ongoing period.
 * Remaining (Paid) days: They are the earned days from last period, which can be taken during current period. And it's usually displayed as Paid days in the payslip. And you can save up to 5 days to the next period if you want.
 * Saved days: They are the remaining days saved from the former period which are not consumed yet.
-* Advance days: Since the days you earned in the first period cannot be used during ongoing period, however, we still need to provide the possibility for everyone to take vacations. Therefore, you can still take vacations as borrowed days in advance (25 days by default).
-* Unpaid days: Additionally, unpaid vacation days can be negotiated with the company if the vacations above are not sufficient due to any reason.
+* Advance days: Since the days you earned in the current period cannot be used during ongoing period, however, we still need to provide the possibility for everyone to take vacations. Therefore, you can still take paid vacations as borrowed days in advance (25 days by default).
+* Unpaid days: Unpaid vacation days is the days off without payment, it equals to (25 - Paid days). So that, the 25 vacation are stil fulfilled by law. More unpaid days can be negotiated with the company if the vacations are not sufficient due to any reason.
 
-When taking Remaining or Saved days, the payment will be higher than normal working days.
-When taking borrowed Advance vacation days, the payment will be the same as normal working days.
+When taking vacation days, the default order to consume the days would be: 
+1. Saved days
+2. Paid days
+3. Advance days
+4. unpaid days
 
-The Advance days are considered as a one-time loan, which will be canceled after 5 years in service at the company. If you terminate from the company earlier, the "loan" will be paid back according to the accounting calcuation.
+If you want to consume vacation days in a different order, please contact the company admin.
 
-Meanwhile, you will get paid if you have unused Earned/Remaining/Saved vacation days left when you terminate from the company.
+* When taking Remaining or Saved days, the payment will be higher than normal working days.
+* When taking Advance vacation days, the payment will be the same as normal working days.
+* The Advance days are considered as a one-time loan, which will be canceled after 5 years in service at the company (5 days per year). If you terminate from the company earlier, the "loan" will be paid back according to the accounting calcuation.
+* You will get paid if you have unused Earned/Remaining/Saved vacation days left when you terminate from the company.
 
 It is important to take 20 days' vacation for those who has been working a full year, due to the regulation from Swedish migration board.
 
@@ -32,3 +38,7 @@ Assuming this year is 2022, and now we are in the end of July.
 * Sam starts his employment in 1st of February 2022, so he has **(59/365) x 25** remaining days from last period, and has earned **(122/365) x 25** days this period, and he can borrow 25 Advance days.
 * Lucy starts her employment in October 2021, so she has **(182/365) x 25** remaining days from last period, and has earned **(122/365) x 25** days this period, and she can borrow 25 Advance days. Since she has taken 11 vacations during June, her remaining days are updated to **(182/365) x 25 - 11** days.
 * Tom starts his employment in November 2021, and he has **(151/365) x 25** remaining days from last period, and he has earned **(122/365) x 25** days this period, and he can borrow 25 Advance days. Since he has taken 15 vacation days in June, he has consumed all remaining days from last period, plus 5 Advance days, so his Advance days is now 20 days left.
+
+
+
+PS: The current payslip system does not display Earned days, but the days are saved properly in the system. If you have more questions, please check with our company accountant.
